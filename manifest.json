@@ -1,0 +1,26 @@
+{
+  "id": "cinnabar_experimental_lab",
+  "name": "Mutant Monster Lab",
+  "version": "1.0.0",
+  "author": "Jasocorp + ChatGPT",
+  "description": "Fund a five-tier experimental Pokemon lab on Cinnabar Island, splice persistent mutations into individual Pokemon, manage instability, and reactivate the Holon Collider to unleash rotating global phenomena.",
+  "games": [
+    "crystal"
+  ],
+  "entry": "main.lua",
+  "api": 2,
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.2.55 <1.0.0",
+  "priority": 200,
+  "dependencies": [],
+  "optional_dependencies": [
+    "pokemon_survival",
+    "safari_derby_dev"
+  ],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "github": "GawdMode/Mutant-Monster-Lab"
+}

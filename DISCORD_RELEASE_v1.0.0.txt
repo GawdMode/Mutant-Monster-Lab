@@ -1,0 +1,50 @@
+🧪 **MUTANT MONSTER LAB v1.0.0 IS HERE!** 🧬
+
+A new experimental research facility has opened on **Cinnabar Island** for Pokémon Crystal on Gen1Recomp, and absolutely none of this feels properly regulated.
+
+💰 **BUILD THE LAB**
+Fund **5 research tiers**, complete experiments, unlock new equipment, and help the scientists drag their ruined facility back into operation.
+
+🧬 **MUTATE & SPLICE POKÉMON**
+Experiment on individual Pokémon with:
+🎨 Chromatic palette mutations
+📏 Size changes
+🦴 Donor body fragments
+🔊 Altered cries
+🔀 Type splicing
+📊 Stat manipulation
+⚠️ Increasingly unstable side effects
+
+Your mutant Pokémon are persistent through **saving, PC storage, and supported evolutions**.
+
+☢️ **FUSION INSTABILITY**
+Keep experimenting on the same Pokémon and stability starts dropping. Push things far enough and the failures can get catastrophic. Yes, the scientists probably should have stopped earlier.
+
+⚛️ **THE HOLON COLLIDER**
+Reach Tier 5 and restore the lab's ultimate machine.
+
+Every activation rolls **3 unique worldwide phenomena**:
+
+💯 **LEVEL CASCADE** — Wild Pokémon are Lv100
+🌀 **HOLON TYPING** — Randomized types
+📊 **STAT DISTORTION** — Mutated stat profiles
+🧬 **EVOLUTION CASCADE** — Caught Pokémon mutate species every time they level
+🚀 **LIMIT BREAK** — Grow beyond Lv100 up to Lv255
+🎲 **MOVE COLLAPSE** — Randomized movesets and learnsets
+💥 **VOLATILE ECOSYSTEM** — Every wild Pokémon knows EXPLOSION
+🌈 **CHROMATIC FIELD** — Persistent randomized palettes
+🔒 **LOCKDOWN** — No escaping wild battles
+✨ **PRISMA** — Wild Pokémon are shiny
+🌎 **WILD SHUFFLE** — Wild encounter species are rerolled
+
+The Collider needs **7 in-game days** to recharge, and Pokémon caught during an event keep their mutations even after the next activation.
+
+🔗 **CROSS-MOD MUTANTS**
+Mutation visuals support:
+🏕️ PokeSurvive
+🐟 Angler's Cove Aquarium
+🏇 Safari Derby
+
+So yes, the horrible purple mutant you created in a laboratory can live in your aquarium or become a professional racing athlete.
+
+🧪 **Mutant Monster Lab v1.0.0** is the initial public release. Have fun doing science that should probably require more oversight. ⚡
