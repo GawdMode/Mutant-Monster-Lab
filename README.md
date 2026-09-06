@@ -47,12 +47,6 @@ Cinnabar-created individual palettes take visual priority over PokeSurvive's ran
 
 All companion mods are optional.
 
-## Installation
+## More Mods
 
-Install the mod using the normal Gen1Recomp mod installation process for Pokémon Crystal.
-
-## Version
-
-**v1.0.0 — Initial Public Release**
-
-Welcome to the lab. Please ignore the waiver.
+Check out my other [Pokémon mods and projects](https://github.com/GawdMode) on GitHub!
