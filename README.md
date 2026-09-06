@@ -12,7 +12,7 @@ Complete successful experiments and bankroll new equipment to advance through fi
 ### Pokémon Splicing
 Alter individual Pokémon with persistent experimental traits, including:
 
-- Chromatic palette mutations
+- Palette altering
 - Type splicing
 - Stat manipulation
 - and more...
