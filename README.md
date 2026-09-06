@@ -13,12 +13,9 @@ Complete successful experiments and bankroll new equipment to advance through fi
 Alter individual Pokémon with persistent experimental traits, including:
 
 - Chromatic palette mutations
-- Size changes
-- Donor anatomical fragments
-- Altered cries
 - Type splicing
 - Stat manipulation
-- Experimental evolution effects
+- and more...
 
 Mutations belong to the individual Pokémon and are designed to survive normal play, including PC storage, saving/reloading, and supported evolution paths.
 
