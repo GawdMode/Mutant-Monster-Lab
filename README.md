@@ -27,19 +27,7 @@ Reach Tier 5 to restore the lab's largest experiment.
 
 Each activation rolls **three unique global phenomena** that alter wild Pokémon. The Collider then requires **seven in-game days** to recharge.
 
-Possible phenomena:
-
-- **Level Cascade** — Wild Pokémon are Lv100.
-- **Holon Typing** — Wild Pokémon receive randomized types.
-- **Stat Distortion** — Wild Pokémon receive persistent distorted stat profiles.
-- **Evolution Cascade** — Affected caught Pokémon mutate into a random species whenever they gain a level.
-- **Limit Break** — Affected Pokémon can grow beyond Lv100, up to Lv255.
-- **Move Collapse** — Wild Pokémon receive persistent randomized movesets and learnsets.
-- **Volatile Ecosystem** — Wild Pokémon know EXPLOSION.
-- **Chromatic Field** — Wild Pokémon receive persistent randomized palettes.
-- **Lockdown** — You cannot escape affected wild battles.
-- **Prisma** — Wild Pokémon appear shiny.
-- **Wild Shuffle** — Wild encounter species are rerolled.
+Possible phenomena: Level Cascade, Holon Typing, Stat Distortion, Volatile Ecosystem, and more.
 
 Phenomena use weighted rarity: stranger everyday mutations appear more often, while the most catastrophic effects are rarer but always possible.
 
