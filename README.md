@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://gawdmode.github.io/">
+    <img src="assets/checkoutmyothermods.png" alt="Check out all of my other Gen1Recomp mods">
+  </a>
+</p>
+
+# Mutant Monster Lab
+
 **Mutant Monster Lab** is an experimental Pokémon modification for Pokémon Crystal on Gen1Recomp.
 
 Hidden away on Cinnabar Island is a research facility dedicated to pushing Pokémon far beyond their natural limits. Splice Pokémon together, manipulate their traits, discover unstable mutations, experiment with forbidden technology, and gradually expand the facility into something increasingly dangerous.
