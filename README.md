@@ -134,7 +134,3 @@ The integration is completely optional. Mutant Monster Lab functions normally wi
 Designed for **Pokémon Crystal on Gen1Recomp**.
 
 Mutant Monster Lab is designed as a standalone expansion and does not require PokeSurvive or other mods unless using their optional integration features.
-
-## More Mods
-
-Check out my other [Pokémon mods and projects](https://gawdmode.github.io/) on GitHub!
